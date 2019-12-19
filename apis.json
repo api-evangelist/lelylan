@@ -1,0 +1,57 @@
+{
+    "name": "Lelylan",
+    "description": "<p>Lelylan is a project called to life by the need to solve technological limitations that home automation (aka domotics) faces today. Our houses are furnished by numerous devices like appliances, lighting systems, alarms, irrigation systems, smoke and gas detectors, heating, cooling, audio, video systems and much more. Unluckily, those devices use different standards and they can not communicate with each other. The consequences are higher prices, technical limitations, few services and a lot of confusion for the end user.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1860-lelylan.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lelylan\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Lelylan",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1860-lelylan.jpg",
+            "humanURL": "http:\/\/lelylan.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lelylan-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/lelylan.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/lelylan.com\/blog\/feed.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/lelylan"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/lelylan\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/lelylan"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/lelylan.com\/"
+        }
+    ]
+}
